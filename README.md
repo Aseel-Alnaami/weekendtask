@@ -1,2 +1,26 @@
-css game
+CSS plate game 
 ![CSSGame](https://github.com/user-attachments/assets/bc010310-489d-4fdc-b1f5-3593457a2b05)
+
+Froggy flex game
+![5](https://github.com/user-attachments/assets/bf10fab2-2892-4cbf-a85d-8c67651077aa)
+![6](https://github.com/user-attachments/assets/40bc0536-3091-4f30-ba01-030c1007ac70)
+![7](https://github.com/user-attachments/assets/0b9bbbfd-e2e6-4360-9c5d-ea68733c416a)
+![8](https://github.com/user-attachments/assets/99feb724-0d9c-4da8-b483-b0586cf1c60c)
+![9](https://github.com/user-attachments/assets/1a7d3b61-78f8-42da-9601-a72ae184fa79)
+![10](https://github.com/user-attachments/assets/adad4177-ebdd-484b-bea5-d8bdfc9df2f2)
+![11](https://github.com/user-attachments/assets/97c0d7a9-b3d0-4626-8467-e2e6c46859a5)
+![12](https://github.com/user-attachments/assets/4cd89c7f-8b04-449f-9e8c-44a62dca5105)
+![13](https://github.com/user-attachments/assets/43b8788c-475c-43a1-b06d-c466a4aa8fe4)
+![14](https://github.com/user-attachments/assets/3046e796-e492-4bb2-9dab-bfa0b91a373d)
+![15](https://github.com/user-attachments/assets/3894d151-5d5f-4a6e-9de0-16b7fbe1b111)
+![16](https://github.com/user-attachments/assets/c4dd1a25-a81a-4065-8f3b-076ec355f74a)
+![17](https://github.com/user-attachments/assets/5fed6c1e-682d-425b-ad92-cf1fe1ff409a)
+![18](https://github.com/user-attachments/assets/d4a21603-c4eb-4fff-83ac-b16717f23d00)
+![19](https://github.com/user-attachments/assets/c3e2ce1d-0ad3-4866-8c6e-c04d1bde1a9e)
+![20](https://github.com/user-attachments/assets/5d3bddfa-8cbc-47b8-b622-a258aa40b435)
+![21](https://github.com/user-attachments/assets/960c21f0-9459-4236-9aa5-7f322bc47494)
+![22](https://github.com/user-attachments/assets/74c2927b-4b7c-4646-aaff-f8bfce3f3cad)
+![23](https://github.com/user-attachments/assets/9a61f677-03a0-4af8-bcc7-8a6d7c2aac86)
+![24](https://github.com/user-attachments/assets/f249bddf-9424-4407-a9f2-1e00c7069b1f)
+![200](https://github.com/user-attachments/assets/abbf80e6-7246-4045-8e12-0f5fbfdd7d3c)
+![final](https://github.com/user-attachments/assets/3c2c01d6-0f1e-468e-a155-6da8b2cade39)
